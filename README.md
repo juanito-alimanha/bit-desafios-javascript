@@ -46,3 +46,6 @@ Ej salida: 8 + 4 = 12
 divisible por el segundo.
 14. Crear una función que reciba 1 número, imprimir si es negativo o si es
 positivo o si es cero.
+
+
+#### AUTOR: Juan Jose Aguirre P
